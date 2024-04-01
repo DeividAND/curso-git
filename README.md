@@ -2,4 +2,4 @@
     * Aprendendo os principais comandos.
     * Iniciando alguns códigos simples em python para praticar os comandos git
     * Adicionando arquivos
-    * Aprendendo a navegar no historico de alterções 
+    * Aprendendo a navegar no histórico de alterções 
