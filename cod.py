@@ -7,5 +7,7 @@ hab = str(input('Você tem habilitação [S]/[N]? ')).upper().strip()
 print(f'seja bem vindo {nome}')
 if idade >= 18 and hab == 'S':
     print(f'{nome} tem {idade} e está autorizado a dirigir.')
+elif idade >= 18 and hab == 'N':
+    print(f'{nome} tem {idade} e está autorizado a dirigir mas não possui habilitção.')
 else:
     print(f'{nome} tem {idade} e não está autorizado a dirigir.')
