@@ -1,3 +1,4 @@
+print('-' * 13)
 print("Hello, world!")
 print('-' * 13)
 nome = str(input('Digite seu nome: '))
