@@ -1,6 +1,6 @@
-print('-' * 13)
+
 print("Hello, world!")
-print('-' * 13)
+
 nome = str(input('Digite seu nome: '))
 idade = int(input('Informe sua idade: '))
 hab = str(input('Você tem habilitação [S]/[N]? ')).upper().strip()
